@@ -21,17 +21,17 @@ kullanım
 Projeyi başlattıktan sonra admin girişi yapabilirsiniz.
 Yönetici kullanıcı adı:admin@example.com
 Yönetici şifresi:admin123
-# Kişisel Giriş:
+ Kişisel Giriş:
  Personel girişi için ilgili alanlara kişisel bilgileriyle giriş yapabilirsiniz.
 # Admin İşlemleri:
 
 Ana Sayfa'daki tüm işlemleri görebilirsiniz.
 Personel, departman, firma ve görev yönetimi için ilgili sayfalardan işlemleri gerçekleştirebilirsiniz.
-# Kişisel İşlemler:
+ Kişisel İşlemler:
 
 Atanmış çağrıları ve işlemlerini gerçekleştirebilirsiniz.
-# Veritabanı Yedekleme:
+ Veritabanı Yedekleme:
 
 Veritabanını yedeklemek için düzenli yedekleme işlemini gerçekleştirebilirsiniz.
 lisans
-# Bu proje MIT Lisansı altında lisanslanmıştır.
+ Bu proje MIT Lisansı altında lisanslanmıştır.
