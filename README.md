@@ -34,4 +34,4 @@ Atanmış çağrıları ve işlemlerini gerçekleştirebilirsiniz.
 
 Veritabanını yedeklemek için düzenli yedekleme işlemini gerçekleştirebilirsiniz.
 lisans
- Bu proje MIT Lisansı altında lisanslanmıştır.
+ Bu proje MIT Lisansı LICENSE altında lisanslanmıştır.
