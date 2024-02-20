@@ -23,13 +23,16 @@ Yönetici kullanıcı adı:admin@example.com
 Yönetici şifresi:admin123
  Kişisel Giriş:
  Personel girişi için ilgili alanlara kişisel bilgileriyle giriş yapabilirsiniz.
+ 
  Admin İşlemleri:
-
+ 
 Ana Sayfa'daki tüm işlemleri görebilirsiniz.
 Personel, departman, firma ve görev yönetimi için ilgili sayfalardan işlemleri gerçekleştirebilirsiniz.
+ 
  Kişisel İşlemler:
 
 Atanmış çağrıları ve işlemlerini gerçekleştirebilirsiniz.
+ 
  Veritabanı Yedekleme:
 
 Veritabanını yedeklemek için düzenli yedekleme işlemini gerçekleştirebilirsiniz.
