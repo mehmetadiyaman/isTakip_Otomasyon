@@ -21,7 +21,9 @@ Yönetici Girişi:
 Projeyi başlattıktan sonra admin girişi yapabilirsiniz.
 Yönetici kullanıcı adı:admin@example.com
 Yönetici şifresi:admin123
+ 
  Kişisel Giriş:
+ 
  Personel girişi için ilgili alanlara kişisel bilgileriyle giriş yapabilirsiniz.
  
  Admin İşlemleri:
