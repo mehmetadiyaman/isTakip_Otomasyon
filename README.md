@@ -33,5 +33,6 @@ Atanmış çağrıları ve işlemlerini gerçekleştirebilirsiniz.
  Veritabanı Yedekleme:
 
 Veritabanını yedeklemek için düzenli yedekleme işlemini gerçekleştirebilirsiniz.
-lisans
- Bu proje MIT Lisansı LICENSE altında lisanslanmıştır.
+## Lisans
+
+Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır. Detaylı bilgi için [Lisans Dosyası](LICENSE) dosyasına bakabilirsiniz.
