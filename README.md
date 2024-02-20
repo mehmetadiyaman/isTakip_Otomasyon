@@ -19,6 +19,7 @@ Projeyi derleyin ve çalıştırın.
 Yönetici Girişi:
 
 Projeyi başlattıktan sonra admin girişi yapabilirsiniz.
+sql veritabanını bağladıktan sonra tblpersonel tablosunda admin seçeceğiniz kişinin "admin" satırı true olarak seçilmelidir.Örneğin
 Yönetici kullanıcı adı:admin@example.com
 Yönetici şifresi:admin123
  
