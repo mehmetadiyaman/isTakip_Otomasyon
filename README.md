@@ -15,15 +15,15 @@ Proje bileşenleri indirilir.
 Visual Studio veya benzeri bir IDE ile projeyi açın.
 Bağlantı parçasının App.configdosyasında yapın.
 Projeyi derleyin ve çalıştırın.
-kullanım
-# Yönetici Girişi:
+# kullanım
+Yönetici Girişi:
 
 Projeyi başlattıktan sonra admin girişi yapabilirsiniz.
 Yönetici kullanıcı adı:admin@example.com
 Yönetici şifresi:admin123
  Kişisel Giriş:
  Personel girişi için ilgili alanlara kişisel bilgileriyle giriş yapabilirsiniz.
-# Admin İşlemleri:
+ Admin İşlemleri:
 
 Ana Sayfa'daki tüm işlemleri görebilirsiniz.
 Personel, departman, firma ve görev yönetimi için ilgili sayfalardan işlemleri gerçekleştirebilirsiniz.
